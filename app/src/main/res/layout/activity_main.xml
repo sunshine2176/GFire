@@ -27,7 +27,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="59dp"
         android:textStyle="bold"
-        android:textSize="50sp"
+        android:textSize="51sp"
         android:layout_alignParentStart="true"
         android:layout_gravity="center_horizontal" />
 </LinearLayout>
